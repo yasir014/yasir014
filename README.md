@@ -4,14 +4,14 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 🚀 About Me  
 
-- 🌱 Currently exploring **C++** and building fun projects.  
+- 🌱 Currently exploring **React JS** and building fun projects.  
 - 🎨 Working on a **portfolio website** to showcase my skills and projects.  
-- 💻 Proficient in **HTML**, **CSS**, and **basic JavaScript**.  
+- 💻 Proficient in **HTML**, **CSS**, and **JavaScript**.  
 - 🔐 Interested in cryptography and working on a **message encryption-decryption project**.  
 
 🛠️ Skills  
 
-- Programming Languages**: C++, HTML, CSS, JavaScript  
+- Programming Languages**: Python, HTML, CSS, JavaScript  
 - Web Development**: Responsive design, mobile-friendly websites  
 - Tools & Platforms**: VS Code, Git, GitHub  
 
